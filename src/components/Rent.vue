@@ -23,7 +23,7 @@
 import House from "../components/House.vue";
 
 export default {
-  name: "home",
+  name: "rent",
   components: {
     "house-card": House
   },
@@ -37,7 +37,7 @@ export default {
         username: "Cormac Finney",
         status: "Trust Real Estate",
         address: "7694 S. Fulton Road United States",
-        price: 5690,
+        price: 569,
         bedroom: 2,
         bathroom: 2,
         area: 420
@@ -50,7 +50,7 @@ export default {
         username: "Jaheim Gonzalez",
         status: "New User",
         address: "142 Riverside Lane United States",
-        price: 9800,
+        price: 980,
         bedroom: 1,
         bathroom: 1,
         area: 1100
@@ -63,7 +63,7 @@ export default {
         username: "Nial Rodriquez",
         status: "Trust Real Estate",
         address: "494 Border Rd. United States",
-        price: 15300,
+        price: 1530,
         bedroom: 2,
         bathroom: 2,
         area: 3500
@@ -76,7 +76,7 @@ export default {
         username: "Archie Brennan",
         status: "New User",
         address: "597 Glenholme St. United States",
-        price: 9900,
+        price: 990,
         bedroom: 1,
         bathroom: 1,
         area: 2010
@@ -89,7 +89,7 @@ export default {
         username: "Theresa Case",
         status: "Trust Real Estate",
         address: "7654 Poplar St. United States",
-        price: 11500,
+        price: 1150,
         bedroom: 1,
         bathroom: 2,
         area: 1500
@@ -102,7 +102,7 @@ export default {
         username: "Halle Calhoun",
         status: "Trust Real Estate",
         address: "683 Miller Lane United States",
-        price: 7880,
+        price: 788,
         bedroom: 2,
         bathroom: 2,
         area: 1900

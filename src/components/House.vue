@@ -1,7 +1,5 @@
 <template>
   <div>
-    <!-- :img-src="require('/home/vilmos/Flow/Vue/house/src/assets/house2.jpg')" -->
-    <!-- :title="name" -->
     <b-col>
       <b-card
         :img-src="image"
